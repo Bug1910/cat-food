@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cat-food-70r.pages.dev/sitemap.xml
